@@ -59,7 +59,7 @@ export default function FilterPage() {
 
             <Link
               href={`/results/${makeId}/${year}`}
-              className={`px-4 py-2 inline-block bg-blue-500 text-white ${!isButtonEnabled ? 'opacity-50 pointer-events-none rounded-md' : ''}`}
+              className={`px-4 py-2 inline-block bg-blue-500 text-white rounded-md ${!isButtonEnabled ? 'opacity-50 pointer-events-none ' : ''}`}
             >
               Next
             </Link>

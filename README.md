@@ -10,6 +10,7 @@ generateStaticParams, and integration with an external API to fetch vehicle mode
 - [Running the Project](#running-the-project)
 - [Environment Variables](#environment-variables)
 - [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
 
 ## Installation
 
@@ -63,3 +64,21 @@ stored in a .env.local file. Example:
 - Tailwind CSS: A utility-first CSS framework for styling.
 - fetch API: For making requests to external APIs.
 - React Suspense: For handling data loading with fallback UI.
+
+## Screenshots
+
+1. **Home page, filtering:**
+
+   ![Home page, filtering](./public/screenshots/main-page.png)
+
+   ![Home page, filtering](./public/screenshots/results-page.png)
+
+2. **Results page:**
+
+   ![СResults page](./public/screenshots/results-page.png)
+
+3. **Error page:**
+
+   ![Error page](./public/screenshots/error-page.png)
+
+   ![Not found page](./public/screenshots/not-found-page.png)

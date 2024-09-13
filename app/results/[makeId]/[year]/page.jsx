@@ -10,7 +10,7 @@ export async function generateStaticParams() {
 
   const years = getYears();
 
-  const paths = makesData.flatMap(make =>
+  const paths = makesData.map(make =>
     years.map(year => ({
       makeId: make.MakeId.toString(),
       year: year.toString(),

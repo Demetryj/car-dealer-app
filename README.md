@@ -71,7 +71,7 @@ stored in a .env.local file. Example:
 
    ![Home page, filtering](./public/screenshots/main-page.png)
 
-   ![Home page, filtering](./public/screenshots/results-page.png)
+   ![Home page, filtering](./public/screenshots/main-page-2.png)
 
 2. **Results page:**
 
